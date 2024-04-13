@@ -1,5 +1,5 @@
 
-# Final Project
+# Final Project of Machine Learning Bootcamp 2024
 
 ## Optimal Price Prediction
 
