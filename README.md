@@ -1,7 +1,7 @@
 
 # Final Project of Machine Learning Bootcamp 2024
 
-## Optimal Price Prediction
+## Optimal Price Detection
 
 The Company Bilboardly has 10,000 billboards distributed across the whole country which they give for a rent. Each billboard has its own location, its size, and may be illuminated or not.
 
